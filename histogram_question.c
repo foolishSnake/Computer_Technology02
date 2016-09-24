@@ -17,7 +17,7 @@ void main()
     {
         printf("please enter value number %d: ", index+1);
         scanf("%d", &histogram[index]);
-        flushall;
+        // flushall();
     }
     
     
